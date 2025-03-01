@@ -23,12 +23,6 @@ This project focuses on **implementing IT security policies** to enforce **passw
 
 📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18704108/Implementing.an.IT.Security.Policy.4e.-.Marc.Corona.pdf)**  
 
-📂 **Policy Configurations & Screenshots**:
-- `password_policy_settings.png` – AD password policy configuration  
-- `antivirus_policy_settings.png` – Windows Defender real-time protection  
-- `mobile_security_settings.png` – Android security policies  
-- `acceptable_use_policy.docx` – Example AUP for corporate environments  
-
 <h2>✅ Security Best Practices & Key Takeaways</h2>
 
 🔹 **Enforcing strong password policies** reduces the risk of credential-based attacks.  
