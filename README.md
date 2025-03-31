@@ -21,7 +21,7 @@ This project focuses on **implementing IT security policies** to enforce **passw
 
 <h2>🚀 Report & Documentation</h2>
 
-📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18704108/Implementing.an.IT.Security.Policy.4e.-.Marc.Corona.pdf)**  
+📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/19540233/Implementing.an.IT.Security.Policy.-.Marc.Corona.Mireles.pdf)**  
 
 <h2>✅ Security Best Practices & Key Takeaways</h2>
 
